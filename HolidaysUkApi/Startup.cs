@@ -82,11 +82,9 @@ namespace HolidaysUkApi
         public void Configure(WebApplication app, IWebHostEnvironment environment)
         {
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+            app.UseSwagger();
+            app.UseSwaggerUI();
+
             app.UseStaticFiles();
 
             app.UseRouting();

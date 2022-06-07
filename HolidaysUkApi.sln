@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidaysUkApi", "HolidaysUkApi\HolidaysUkApi.csproj", "{61515B35-A7D9-499C-BBB2-5E8C82A3679F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayUkFunction", "HolidayUkFunction\HolidayUkFunction.csproj", "{EABB7C68-1E19-4532-8810-C4BE53BFE322}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysUkFunction", "HolidaysUkFunction\HolidaysUkFunction.csproj", "{AA2D0C8B-ED32-41B6-82CE-84D91E4E7806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{61515B35-A7D9-499C-BBB2-5E8C82A3679F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61515B35-A7D9-499C-BBB2-5E8C82A3679F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61515B35-A7D9-499C-BBB2-5E8C82A3679F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EABB7C68-1E19-4532-8810-C4BE53BFE322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EABB7C68-1E19-4532-8810-C4BE53BFE322}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EABB7C68-1E19-4532-8810-C4BE53BFE322}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EABB7C68-1E19-4532-8810-C4BE53BFE322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2D0C8B-ED32-41B6-82CE-84D91E4E7806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2D0C8B-ED32-41B6-82CE-84D91E4E7806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2D0C8B-ED32-41B6-82CE-84D91E4E7806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2D0C8B-ED32-41B6-82CE-84D91E4E7806}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

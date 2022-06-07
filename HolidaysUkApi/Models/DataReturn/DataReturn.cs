@@ -2,7 +2,7 @@
 {
     public class DataReturn
     {
-        public string Division { get; set; }
-        public List<Events> Events { get; set; }
+        public string division { get; set; }
+        public List<Events> events { get; set; }
     }
 }
